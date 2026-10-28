@@ -1,26 +1,38 @@
-## Bem-vindo(a) ao perfil de Lucas Eineck Machado
+<h1 align="center">👋 Olá, sou o Lucas Eineck Machado!</h1>
 
- <div>
-   <a href="https://github.com/LucasEineckMachado">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasEineckMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEineckMachado&layout=compact&langs_count=6&theme=tokyonight"/>
+<p align="center">
+  Programador Júnior e estudante de Ensino Técnico em TI. Apaixonado por tecnologia, focado em desenvolvimento web e em constante evolução técnica.
+</p>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### 
- 
-<div> 
-  <a href="https://instagram.com/lucasmachado5479" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:Polunar121@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-eineck-machado-843441257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/LucasEineckMachado/LucasEineckMachado/blob/output/github-contribution-grid-snake.svg)
+---
 
+### 🚀 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,vscode" alt="Minhas Skills" />
 </div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LucasEineckMachado&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEineckMachado&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Conecte-se comigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:polunar121@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
