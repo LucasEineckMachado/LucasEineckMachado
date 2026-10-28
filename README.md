@@ -26,13 +26,13 @@
 ### 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-eineck-machado-b70465213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/https://www.instagram.com/lucasmachado5479/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="mailto:polunar121@gmail.com">
+  <a href="polunar121@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
